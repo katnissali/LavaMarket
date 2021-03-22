@@ -1,0 +1,10 @@
+messages:
+  prefix: '&f[&4&lLavaMarket&f]&7 '
+
+prices:
+  max: 1000
+  min: 1
+
+ranks:
+  - 'group.default, 3'
+  - 'group.default2, 3'

@@ -1,0 +1,12 @@
+name: LavaMarket
+version: 1.0
+main: me.katnissali.lavamarket.LavaMarket
+api-version: 1.13
+author: katnissali#1487
+commands:
+  market:
+    description: Manage trade commands.
+    aliases: [LavaMarket, lm, trade]
+
+depend:
+  - Vault
